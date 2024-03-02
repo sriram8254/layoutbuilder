@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.checklist-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.check-item-container {
+  margin: 10px 0px;
+}
+
+.config-bg-container {
+  background-color: #475569;
+  padding: 10px 50px;
+}
+
+.label {
+  color: white;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+
+.layout-heading {
+  color: white;
+  font-family: 'Roboto';
+}
